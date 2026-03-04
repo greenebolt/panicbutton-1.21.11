@@ -1,6 +1,6 @@
 <h1 align="center">Centered Title</h1>
 
-<img width="1225" height="126" align="center" alt="PanicButtonBanner" src="https://github.com/user-attachments/assets/254dc7c8-0488-4e84-8656-6fc006dab741" />
+<img width="1225" height="126" alt="PanicButtonBanner" src="https://github.com/user-attachments/assets/6b9304e7-7db2-42e9-ae27-47391ac83f08" />
 
 A handy dandy lightweight mod to aid in the difficult process to leave, save and quit, disconnect, exit, etc.
 
