@@ -5,6 +5,9 @@
 A handy dandy lightweight mod to aid in the difficult process to leave, save and quit, disconnect, exit, etc.
 
 Features:
+
 ⚜ Configurable keybind that quits the game
+
 ⚜ Works in both Singleplayer & Multiplayer
+
 ⚜ Works in version 1.21.11
